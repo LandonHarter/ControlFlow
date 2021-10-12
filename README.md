@@ -1,4 +1,4 @@
-# Bank Transaction [![License](https://img.shields.io/github/license/LandonHarter/ControlFlow)](https://github.com/LandonHarter/ControlFlow/blob/master/LICENSE)
+# Bank Transaction [![License](https://img.shields.io/github/license/LandonHarter/ControlFlow)](https://github.com/LandonHarter/ControlFlow/blob/master/LICENSE) [![Github All Releases](https://img.shields.io/github/downloads/LandonHarter/ControlFlow/total.svg)]()
 
 This is a simple banking program built with python in the Computer Science and Software Engineering class.
 
