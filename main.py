@@ -53,7 +53,7 @@ inBank = True
 amountOfMoney : float = 0.00
 
 while inBank:
-  atm = input("ATM>")
+  atm = input("ATM> ")
 
   if atm == "quit":
     inBank = False

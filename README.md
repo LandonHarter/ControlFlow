@@ -16,8 +16,9 @@ There are multiple ways to run this application such as, the CMD, terminal, or a
 
 - CMD/Terminal: After cloning the repository, type the following commands,
 
-
-    cd ControlFlow
-    python main.py
+```
+cd ControlFlow
+python main.py
+```
 
 - IDE: Open this project in an IDE of your choice and run the project
