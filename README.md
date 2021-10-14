@@ -1,4 +1,4 @@
-# Bank Transaction [![License](https://img.shields.io/github/license/LandonHarter/ControlFlow)](https://github.com/LandonHarter/ControlFlow/blob/master/LICENSE)
+# Bank Transaction [![License](https://img.shields.io/github/license/LandonHarter/ControlFlow)](https://github.com/LandonHarter/ControlFlow/blob/master/LICENSE) [![Github All Releases](https://img.shields.io/github/downloads/LandonHarter/ControlFlow/total.svg)]()
 
 This is a simple banking program built with python in the Computer Science and Software Engineering class.
 
@@ -16,8 +16,9 @@ There are multiple ways to run this application such as, the CMD, terminal, or a
 
 - CMD/Terminal: After cloning the repository, type the following commands,
 
-
-    cd ControlFlow
-    python main.py
+```
+cd ControlFlow
+python main.py
+```
 
 - IDE: Open this project in an IDE of your choice and run the project
