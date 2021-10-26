@@ -14,10 +14,7 @@ def checkpin(pin : str):
     if pinLength != 4:
         return False
 
-    if pin.isnumeric() is False:
-        return False
-
-    return True
+    return pin.isnumeric()
 
 
 def requestpin():

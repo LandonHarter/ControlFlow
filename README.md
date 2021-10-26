@@ -18,7 +18,7 @@ There are multiple ways to run this application such as, the CMD, terminal, or a
 
 ```
 cd ControlFlow
-python main.py
+python3 main.py
 ```
 
 - IDE: Open this project in an IDE of your choice and run the project
